@@ -15,8 +15,9 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd meetup-5-app`
+* `git clone https://github.com/LumoSpark/MeetUP-5_App` this repository
+* `cd MeetUP-5_App`
+* `git checkout step-0`
 * `npm install`
 * `bower install`
 
