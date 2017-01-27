@@ -1,3 +1,18 @@
+__   __   ___    _   _        _      ____    _____     ____     ___     ____   _  __
+\ \ / /  / _ \  | | | |      / \    |  _ \  | ____|   |  _ \   / _ \   / ___| | |/ /
+ \ V /  | | | | | | | |     / _ \   | |_) | |  _|     | |_) | | | | | | |     | ' /
+  | |   | |_| | | |_| |    / ___ \  |  _ <  | |___    |  _ <  | |_| | | |___  | . \
+  |_|    \___/   \___/    /_/   \_\ |_| \_\ |_____|   |_| \_\  \___/   \____| |_|\_\
+
+  __        __  _____     ____    ___   ____      ___   _____   _   _   _
+  \ \      / / | ____|   |  _ \  |_ _| |  _ \    |_ _| |_   _| | | | | | |
+   \ \ /\ / /  |  _|     | | | |  | |  | | | |    | |    | |   | | | | | |
+    \ V  V /   | |___    | |_| |  | |  | |_| |    | |    | |   |_| |_| |_|
+     \_/\_/    |_____|   |____/  |___| |____/    |___|   |_|   (_) (_) (_)
+
+
+
+
 # meetup-5-app
 
 This README outlines the details of collaborating on this Ember application.
@@ -15,8 +30,9 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd meetup-5-app`
+* `git clone https://github.com/LumoSpark/MeetUP-5_App` this repository
+* `cd MeetUP-5_App`
+* `git checkout step-0`
 * `npm install`
 * `bower install`
 
